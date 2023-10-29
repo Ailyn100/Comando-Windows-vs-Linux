@@ -1,0 +1,74 @@
+# comando Systeminfo
+El comando siguiente te proporciona información de la configuración de tu ordenador.
+En esta lista verás datos tanto del sistema operativo como del hardware, como puede ser la fecha de instalación original de Windows, la hora del último arranque, la versión de su BIOS, la memoria total, la memoria disponible, las revisiones instaladas, las configuraciones de la tarjeta de red y más.
+# Nombre del Host
+AILYN
+
+# Nombre SO
+ Microsoft Windows 11 Home Single Language
+
+ #Version
+ 10.0.22621 N/D Compilación 22621
+
+ # Fabricante
+  Microsoft Corporation
+
+  #Procesador
+   1 Procesadores instalados.
+
+ # Tipo sistema
+  Multiprocessor Free
+
+# Version de la BIOS
+  Insyde F.69, 31/03/2022
+
+  # Valor de la Frecuencia
+  ~2093 Mhz
+
+  #Memoria Fisica
+  La memoria física es un tipo de memoria de computadora que se refiere a los chips de memoria RAM que están insertados en las placas madres. 
+
+  # Memoria Virtual
+  En informática, la memoria virtual es una técnica de gestión de la memoria que se encarga de que el sistema operativo disponga, tanto para el software de usuario como para sí mismo
+
+  # Tarjetas de Red
+   6 Tarjetas de interfaz de red instaladas.
+                                           [01]: ExpressVPN TAP Adapter
+                                                 Nombre de conexión: Ethernet 2
+                                                 Estado:             Medios desconectados
+                                           [02]: ExpressVPN Wintun Driver
+                                                 Nombre de conexión: Conexión de área local
+                                                 Estado:             Medios desconectados
+                                           [03]: Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+                                                 Nombre de conexión: Wi-Fi
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.137.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.137.12
+                                                 [02]: fe80::9fa7:c5e:fa69:784d
+                                           [04]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [05]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::1805:6741:32f1:5162
+                                           [06]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexión: Conexión de red Bluetooth
+                                                 Estado:             Medios desconectados
+
+ # Comandos Linux
+
+ # Touch
+
+ Nos sirve para crear un nuevo archivo
+ --help nos sirve para conocer la informacion de este comando y lo que hace. por ejemplo
+ touch --c (do not create any files)  //no crea ningun archivo
+
+ # Grep
+ Busca a traves del texto en un archivo
+ 
+  
+  
